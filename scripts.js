@@ -1,0 +1,6 @@
+let myArray = ['Szili', 'Orsi', 'Brigi', 'Niki'];
+
+myArray.forEach((name) => {
+    $('ul').append(name);
+})
+
