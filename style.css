@@ -1,0 +1,16 @@
+h1 {
+    color: #78579c;
+  }
+  
+  ul {
+    color: #cc91c6;
+    font-weight: bold;
+  }
+  
+  ol {
+    color: #58a880
+  }
+  
+  .viet {
+    text-decoration: underline;
+  }
